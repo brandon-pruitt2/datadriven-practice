@@ -8,12 +8,11 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-10 |
 | [Suspected Bot Sessions](./practice/spark/suspected-bot-sessions) | Spark | Easy | 2026-10-10 |
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-10 |
 | [The Crown Jewels](./practice/spark/the-crown-jewels) | Spark | Easy | 2026-10-10 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-10 |
 | [Above Average Interactions](./practice/spark/above-average-interactions) | Spark | Easy | 2026-10-08 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-08 |
 
 <!-- datadriven:index:end -->
 
