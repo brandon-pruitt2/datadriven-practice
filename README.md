@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Present and Accounted For](./practice/spark/present-and-accounted-for) | Spark | Easy | 2026-10-28 |
 | [Between the Spaces](./practice/spark/between-the-spaces) | Spark | Medium | 2026-10-28 |
 | [Latest Version Per Service](./practice/spark/latest-version-per-service) | Spark | Easy | 2026-10-28 |
 | [Thirty Days of Shipping](./practice/spark/thirty-days-of-shipping) | Spark | Easy | 2026-10-28 |
