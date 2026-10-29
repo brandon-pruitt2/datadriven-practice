@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Sorted by Duration](./practice/spark/content-sorted-by-duration) | Spark | Easy | 2026-10-29 |
 | [Who Comes Early](./practice/spark/who-comes-early) | Spark | Easy | 2026-10-29 |
 | [The Weight of a Verdict](./practice/spark/the-weight-of-a-verdict) | Spark | Easy | 2026-10-29 |
 | [Error Severity Buckets](./practice/spark/error-severity-buckets) | Spark | Easy | 2026-10-29 |
