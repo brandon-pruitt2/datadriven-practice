@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where The Rows Go](./practice/spark/where-the-rows-go) | Spark | Easy | 2026-10-29 |
 | [Highest Cost Per Team](./practice/spark/highest-cost-per-team) | Spark | Easy | 2026-10-29 |
 | [Transaction Source Features](./practice/spark/transaction-source-features) | Spark | Easy | 2026-10-29 |
 | [Content Type Distribution](./practice/spark/content-type-distribution) | Spark | Easy | 2026-10-29 |
