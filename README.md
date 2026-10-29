@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Errors With Service Health](./practice/spark/errors-with-service-health) | Spark | Easy | 2026-10-29 |
 | [Successful Production Deploys](./practice/spark/successful-production-deploys) | Spark | Easy | 2026-10-29 |
 | [Did Anyone Actually Read It?](./practice/spark/did-anyone-actually-read-it) | Spark | Easy | 2026-10-29 |
 | [Content Sorted by Duration](./practice/spark/content-sorted-by-duration) | Spark | Easy | 2026-10-29 |
