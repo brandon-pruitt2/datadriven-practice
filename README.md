@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Error Severity Buckets](./practice/spark/error-severity-buckets) | Spark | Easy | 2026-10-29 |
 | [Sirens and Smoke](./practice/spark/sirens-and-smoke) | Spark | Easy | 2026-10-29 |
 | [Where You Stand](./practice/spark/where-you-stand) | Spark | Easy | 2026-10-29 |
 | [Customer Full Name Concat](./practice/spark/customer-full-name-concat) | Spark | Easy | 2026-10-29 |
