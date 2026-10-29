@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Customer Full Name Concat](./practice/spark/customer-full-name-concat) | Spark | Easy | 2026-10-29 |
 | [Active Token Owners in 2026](./practice/spark/active-token-owners-in-year) | Spark | Easy | 2026-10-29 |
 | [Present and Accounted For](./practice/spark/present-and-accounted-for) | Spark | Easy | 2026-10-28 |
 | [Between the Spaces](./practice/spark/between-the-spaces) | Spark | Medium | 2026-10-28 |
