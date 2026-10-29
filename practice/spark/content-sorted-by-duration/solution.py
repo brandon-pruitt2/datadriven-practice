@@ -1,6 +1,6 @@
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
-window = Window.partitionBy().orderBy(col('duration_seconds').desc())
+window = Window.orderBy(col('duration_seconds').desc())
 df = spark.read.table('content_items')\
                .select(
                  col('content_id'),
