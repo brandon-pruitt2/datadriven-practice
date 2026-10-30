@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/civic_ferret_6559), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Standings](./practice/spark/the-standings) | Spark | Hard | 2026-10-30 |
 | [Repeat Purchase Window](./practice/spark/repeat-purchase-window) | Spark | Medium | 2026-10-30 |
 | [Where The Rows Go](./practice/spark/where-the-rows-go) | Spark | Easy | 2026-10-29 |
 | [Highest Cost Per Team](./practice/spark/highest-cost-per-team) | Spark | Easy | 2026-10-29 |
