@@ -1,6 +1,6 @@
 # Who Comes Early
 
-*Every year opens with a wave of new names. See how the first seven months compare.*
+*Every year opens with a wave of new names. See how fast the first 7 months fill.*
 
 [Spark · Easy · on DataDriven](https://datadriven.io/problems/who_comes_early)
 
